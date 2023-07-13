@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:11.250000,
+[ThePruld]-When-you-go-dark-souls-with-your-best-mates0.ts
+#EXTINF:9.750000,
+[ThePruld]-When-you-go-dark-souls-with-your-best-mates1.ts
+#EXTINF:9.250000,
+[ThePruld]-When-you-go-dark-souls-with-your-best-mates2.ts
+#EXTINF:10.958333,
+[ThePruld]-When-you-go-dark-souls-with-your-best-mates3.ts
+#EXTINF:9.708333,
+[ThePruld]-When-you-go-dark-souls-with-your-best-mates4.ts
+#EXTINF:3.375000,
+[ThePruld]-When-you-go-dark-souls-with-your-best-mates5.ts
+#EXT-X-ENDLIST
